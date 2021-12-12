@@ -12,6 +12,27 @@ const Home = () => {
         LeftButtonTxt="Custom Order"
         RightButtonTxt="Existing Inventory"
       />
+      <Section
+        title="Model Y"
+        description="Order Online for Touchless Delivery"
+        backgroundImg="model-y.jpg"
+        LeftButtonTxt="Custom Order"
+        RightButtonTxt="Existing Inventory"
+      />
+      <Section
+        title="Model 3"
+        description="Order Online for Touchless Delivery"
+        backgroundImg="model-3.jpg"
+        LeftButtonTxt="Custom Order"
+        RightButtonTxt="Existing Inventory"
+      />
+      <Section
+        title="Model X"
+        description="Order Online for Touchless Delivery"
+        backgroundImg="model-x.jpg"
+        LeftButtonTxt="Custom Order"
+        RightButtonTxt="Existing Inventory"
+      />
     </Container>
   );
 };
